@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Feb 14 16:41:28 2021
-
-@author: petercooper
 """
 
 import time
